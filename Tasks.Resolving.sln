@@ -3,7 +3,11 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 17
 VisualStudioVersion = 17.10.35013.160
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Tasks.Resolving", "Tasks.Resolving\Tasks.Resolving.csproj", "{0F1EB47A-B41F-4BE2-9B59-A1D7927B57D5}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Tasks.Resolving", "Tasks.Resolving\Tasks.Resolving.csproj", "{0F1EB47A-B41F-4BE2-9B59-A1D7927B57D5}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Reversed Strings", "Reversed Strings\Reversed Strings.csproj", "{E21685B0-DAE8-4028-9B1E-A8D7649AD030}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "A Needle in the Haystack", "A Needle in the Haystack\A Needle in the Haystack.csproj", "{BACA8FAD-BB9E-433A-A8F6-8C665B7A08CC}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -15,6 +19,14 @@ Global
 		{0F1EB47A-B41F-4BE2-9B59-A1D7927B57D5}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{0F1EB47A-B41F-4BE2-9B59-A1D7927B57D5}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{0F1EB47A-B41F-4BE2-9B59-A1D7927B57D5}.Release|Any CPU.Build.0 = Release|Any CPU
+		{E21685B0-DAE8-4028-9B1E-A8D7649AD030}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E21685B0-DAE8-4028-9B1E-A8D7649AD030}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E21685B0-DAE8-4028-9B1E-A8D7649AD030}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E21685B0-DAE8-4028-9B1E-A8D7649AD030}.Release|Any CPU.Build.0 = Release|Any CPU
+		{BACA8FAD-BB9E-433A-A8F6-8C665B7A08CC}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{BACA8FAD-BB9E-433A-A8F6-8C665B7A08CC}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{BACA8FAD-BB9E-433A-A8F6-8C665B7A08CC}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{BACA8FAD-BB9E-433A-A8F6-8C665B7A08CC}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
